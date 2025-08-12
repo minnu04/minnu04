@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<!--
-**minnu04/minnu04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...# 💫 About Me:
+# 💫 About Me:
 bhi-7-github/README.md<br>💫 About Me:<br>Hi there, I'm Sri Vardhini 👋<br><br>🎓 Kalvium’26 | 💻 Full Stack Developer | 🚀 Building Impactful Projects<br><br>---<br><br>🔭 I’m currently working on:<br>A full-stack doctor appointment booking app with OTP verification and dynamic profile management.<br><br>🤝 I’m looking to collaborate on:<br>Open-source health-tech tools, productivity web apps, or anything React + Node based!<br><br>🙋‍♂️ I’m looking for help with:<br>Advanced UI/UX animations using Framer Motion & scaling backend APIs with Prisma.<br><br>🌱 I’m currently learning:<br>- Prisma ORM<br>- Javascript<br>- Authentication best practices<br><br>💬 Ask me about:<br>- GitHub project structure<br>- Prisma + MongoDb integration<br><br>⚡ Fun fact:<br>I can debug a 50-line error faster than I can find my TV remote 😄<br><br>---<br><br>📌 Pinned Projects:<br>- ✅ E-commerce Inventory System<br>- ✅ Doctor Booking App (OTP Flow + MongoDb)<br><br><br>> Each repo has a detailed README, screenshots, setup instructions, and a video walkthrough!<br><br>---<br><br><br>
 
 
@@ -20,11 +13,3 @@ bhi-7-github/README.md<br>💫 About Me:<br>Hi there, I'm Sri Vardhini 👋<br><
 [![](https://visitcount.itsvg.in/api?id=minnu04&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
