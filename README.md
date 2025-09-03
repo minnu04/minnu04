@@ -1,5 +1,42 @@
 # 💫 About Me:
-minnu04-github/README.md<br>💫 About Me:<br>Hi there, I'm Sri Vardhini 👋<br><br>🎓 Kalvium’26 | 💻 Full Stack Developer | 🚀 Building Impactful Projects<br><br>---<br><br>🔭 I’m currently working on:<br>A full-stack doctor appointment booking app with OTP verification and dynamic profile management.<br><br>🤝 I’m looking to collaborate on:<br>Open-source health-tech tools, productivity web apps, or anything React + Node based!<br><br>🙋‍♂️ I’m looking for help with:<br>Advanced UI/UX animations using Framer Motion & scaling backend APIs with Prisma.<br><br>🌱 I’m currently learning:<br>- Prisma ORM<br>- Javascript<br>- Authentication best practices<br><br>💬 Ask me about:<br>- GitHub project structure<br>- Prisma + MongoDb integration<br><br>⚡ Fun fact:<br>I can debug a 50-line error faster than I can find my TV remote 😄<br><br>---<br><br>📌 Pinned Projects:<br>- ✅ E-commerce Inventory System<br>- ✅ Doctor Booking App (OTP Flow + MongoDb)<br><br><br>> Each repo has a detailed README, screenshots, setup instructions, and a video walkthrough!<br><br>---<br><br><br>
+# 💫 About Me:
+
+Hi there, I'm **Sri Vardhini Tadikonda** 👋
+
+🎓 Student | 💻 Full Stack Developer (React, Python, C++, Java) | 🚀 Passionate about building meaningful software
+
+---
+
+## 🔭 I’m currently working on:
+A class project focused on building a full-stack application — exploring real-world architecture and best practices.
+
+## 🤝 I’m looking to collaborate on:
+Open-source projects, hackathons, and anything exciting in the full-stack space!
+
+## 🌱 I’m currently learning:
+- Tailwind CSS  
+- React (Advanced Concepts)  
+- Clean component structure & state management  
+
+## 💬 Ask me about:
+- Full-stack development with React & Python  
+- GitHub repo structure  
+- Writing clean, reusable code  
+
+## ⚡ Fun fact:
+I can write a Python script faster than I can decide what to eat 😄
+
+---
+
+## 📌 Pinned Projects:
+- ✅ **[Project Name]** — A full-stack web app built for a class project  
+- ✅ **[Project Name]** — Collaborative project from a recent hackathon
+
+> Each project includes a README with setup instructions, screenshots, and a walkthrough!
+
+---
+
+
 
 
 # 💻 Tech Stack:
