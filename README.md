@@ -28,8 +28,8 @@ I can write a Python script faster than I can decide what to eat 😄
 ---
 
 ## 📌 Pinned Projects:
-- ✅ **[Project Name]** — A full-stack web app built for a class project  
-- ✅ **[Project Name]** — Collaborative project from a recent hackathon
+- ✅ **Rescuive Tails** — A full-stack web app built for a pets.
+- ✅ **E-Commerce** — Collaborative project of class
 
 > Each project includes a README with setup instructions, screenshots, and a walkthrough!
 
